@@ -1,0 +1,5 @@
+*.py[cod]
+.DS_Store
+.tox/
+.coverage
+*.egg-info/
